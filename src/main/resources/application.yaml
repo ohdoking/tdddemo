@@ -1,0 +1,6 @@
+spring:
+  r2dbc:
+    url: r2dbc:postgres://localhost/orders
+    username: orders
+    password: orders
+
